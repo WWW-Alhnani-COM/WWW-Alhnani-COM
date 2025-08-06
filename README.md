@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F&width=600&lines=مرحبا+بكم+في+ملفي+الشخصي;أنا+مطور+Full-Stack+وتطبيقات+موبايل" alt="Typing SVG" />
 </p>
-
+<p align="center">
 
  نبذة عني
 
@@ -17,6 +17,7 @@
 
 
  المهارات التقنية
+ </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
