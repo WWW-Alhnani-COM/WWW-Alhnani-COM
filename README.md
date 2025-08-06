@@ -1,23 +1,26 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F&width=600&lines=مرحبا+بكم+في+ملفي+الشخصي;أنا+مطور+Full-Stack+وتطبيقات+موبايل" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00AEEF&width=700&lines=مرحباً+بكم+في+ملفي+الشخصي" alt="Typing SVG" />
 </p>
-<p align="center">
 
- نبذة عني
+---
 
-أنا مطور Full-Stack متخصص في بناء تطبيقات ويب متكاملة بواجهات حديثة وتجربة مستخدم ممتازة  
-أطور ال Front-End باستخدام HTML, CSS, JavaScript وأطر العمل الحديثة  
-وأطور ال Back-End باستخدام Laravel, PHP, Node.js لبناء أنظمة قوية وفعالة  
+<h1 align="center">نبذة عني</h1>
 
-أطور تطبيقات أندرويد وiOS باستخدام Flutter مع خدمات Firebase (توثيق، قواعد بيانات، وظائف سحابية)  
+<p align="center" style="font-size:20px; line-height:1.6; max-width:800px; margin:auto;">
 
-أهتم بتحسين الأداء، الأمان، وصيانة التطبيقات باستمرار  
+أنا مطور <b>Full-Stack</b> متخصص في بناء تطبيقات ويب متكاملة بواجهات حديثة وتجربة مستخدم ممتازة.  
+أطور ال Front-End باستخدام <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> وأطر العمل الحديثة.  
+وأطور ال Back-End باستخدام <b>Laravel</b>, <b>PHP</b>, <b>Node.js</b> لبناء أنظمة قوية وفعالة.  
 
+أطور تطبيقات أندرويد وiOS باستخدام <b>Flutter</b> مع خدمات <b>Firebase</b> (توثيق، قواعد بيانات، وظائف سحابية).  
 
+أهتم بتحسين الأداء، الأمان، وصيانة التطبيقات باستمرار.
 
- المهارات التقنية
- </p>
+</p>
+
+---
+
+<h2 align="center">المهارات التقنية</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,8 +37,8 @@
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
-
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF4500&width=500&lines=شكرا+لزيارتك+ملفي+الشخصي" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF4500&width=600&lines=شكرا+لزيارتك+ملفي+الشخصي" alt="Typing SVG" />
 </p>
