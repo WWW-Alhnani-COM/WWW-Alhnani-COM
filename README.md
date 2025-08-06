@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF4500&width=600&lines=شكرا+لزيارتك+ملفي+الشخصي" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF4500&width=600&lines=المهندس.محمد الحنــــــــــاني" alt="Typing SVG" />
 </p>
